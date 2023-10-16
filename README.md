@@ -19,4 +19,4 @@ Project is created with:
 - Add your MongoDB connection string into DB_URI
 
 
-Currently only backend is done. More updates incoming.
+## Currently only backend is done. More updates incoming.

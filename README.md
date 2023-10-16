@@ -7,13 +7,10 @@ Fullstack MERN App still in porogress
 ## Technologies
 
 Project is created with:
-
-Backend 
 - Node.js
 - Express
 - JsonWebtoken
 - Mongo DB
-Frontend 
 - REACT
 - REDUX
 

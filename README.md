@@ -11,7 +11,7 @@ Project is created with:
 - Express
 - JsonWebtoken
 - Mongo DB
-- REACT
+- REACT + VITE
 - REDUX
 
 ## MongoDB setup
